@@ -23,17 +23,12 @@ Built a Restaurant Website featuring a welcome section, restaurant ambience gall
 
 ## Output
 
-### Output 1
 ![Output 1](./screenshots/output-1.png)
 
-### Output 2
 ![Output 2](./screenshots/output-2.png)
 
-### Output 3
 ![Output 3](./screenshots/output-3.png)
 
-### Output 4
 ![Output 4](./screenshots/output-4.png)
 
-### Output 5
 ![Output 5](./screenshots/output-5.png)
